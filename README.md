@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0001-two-sum) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Counting
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
