@@ -28,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Counting
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
