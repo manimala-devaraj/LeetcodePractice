@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
