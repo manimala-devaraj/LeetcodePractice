@@ -1,7 +1,5 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        ino=(-2**31)
-        esx=(2**31-1)
         if x>=0:
             rem=0
             while x!=0:
@@ -13,11 +11,14 @@ class Solution:
             while x!=0:
                 rem=(rem*10)+(x%10)
                 x//=10
-            rem= (-rem)
-        if rem<ino or rem>esx:
+            rem=(-rem)
+        if (-2**31<=rem<=2**31-1):
+            return rem
+        else:
             return 0
-        return rem
-
-
-
+    
         
+
+
+
+    
