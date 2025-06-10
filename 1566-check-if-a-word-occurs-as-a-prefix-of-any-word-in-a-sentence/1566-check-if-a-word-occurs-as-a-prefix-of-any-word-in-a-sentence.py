@@ -4,4 +4,5 @@ class Solution:
         for i in range(len(w)):
             if w[i].startswith(searchWord):
                 return i + 1  
-        return -1
+        else:
+            return -1
