@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
