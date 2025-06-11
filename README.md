@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Binary Search
 |  |
@@ -40,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Stack
 |  |
