@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
