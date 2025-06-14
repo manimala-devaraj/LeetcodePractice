@@ -9,15 +9,26 @@ class Solution:
         new=temp
         ca=0
         while l1 or l2 or ca:
-            val1 = l1.val if l1 else 0
-            val2 = l2.val if l2 else 0
-
-            total = val1 + val2 + ca
-            ca= total // 10
-            new.next = ListNode(total % 10)
+            sum=ca
+            if l1:
+                sum+=l1.val
+                l1=l1.next
+            if l2:
+                sum+=l2.val
+                l2=l2.next
+            new.next=ListNode(sum%10)
+            ca=sum//10
             new=new.next
-
-            if l1: l1 = l1.next
-            if l2: l2 = l2.next
-
         return temp.next
+        #     val1 = l1.val if l1 else 0
+        #     val2 = l2.val if l2 else 0
+
+        #     total = val1 + val2 + ca
+        #     ca= total // 10
+        #     new.next = ListNode(total % 10)
+        #     new=new.next
+
+        #     if l1: l1 = l1.next
+        #     if l2: l2 = l2.next
+
+        # return temp.next
