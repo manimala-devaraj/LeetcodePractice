@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
