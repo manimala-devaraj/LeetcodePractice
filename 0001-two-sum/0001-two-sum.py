@@ -5,4 +5,4 @@ class Solution:
             diff=target-num
             if diff in s:
                 return [s[diff], i]
-            s[num] = i
+            s[num] = i 
