@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
+| [1677-matrix-diagonal-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
