@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |
