@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
