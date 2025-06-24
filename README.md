@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
