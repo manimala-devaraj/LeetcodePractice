@@ -1,28 +1,15 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
-        n = len(s)
-        dp = [[0] * n for _ in range(n)]
-
-        # Single characters are palindromes of length 1
-        for i in range(n):
-            dp[i][i] = 1
-
-        # Check substrings of length 2 to n
-        for length in range(2, n + 1):
-            for i in range(n - length + 1):
-                j = i + length - 1
-                if s[i] == s[j]:
-                    if length == 2:
-                        dp[i][j] = 2
-                    else:
-                        dp[i][j] = 2 + dp[i + 1][j - 1]
+        t=s[::-1]
+        dp=[[0 for _ in range(len(s)+1)] for __ in range(len(s)+1)]
+        for i in range(1,len(s)+1):  
+            for j in range(1,len(s)+1):
+                if s[i-1]!=t[j-1]:
+                    dp[i][j]=max(dp[i][j-1],dp[i-1][j])
                 else:
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])
-
-        return dp[0][n - 1]
-
-        # start=0
-        # mas=1
+                    dp[i][j]=1+dp[i-1][j-1]  
+        return dp[-1][-1] 
+        # mas=0
         # for i in range(len(s)):
         #     left,right=i,i
         #     while left>=0 and right<len(s) and s[left]==s[right]:
@@ -38,11 +25,6 @@ class Solution:
         #             mas=right-left+1
         #         left-=1
         #         right+=1
-        # palind=s[start:start+mas]
-        # k=[]
-        # for i in s:
-        #     if i in palind:
-        #         k.append(i)
-        # return len(k)
+        # return mas
                 
         
