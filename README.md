@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
