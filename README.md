@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Monotonic Stack
 |  |
