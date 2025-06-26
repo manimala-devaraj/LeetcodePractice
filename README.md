@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
