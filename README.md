@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
+| [1054-complement-of-base-10-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1054-complement-of-base-10-integer) |
 ## Prefix Sum
 |  |
 | ------- |
