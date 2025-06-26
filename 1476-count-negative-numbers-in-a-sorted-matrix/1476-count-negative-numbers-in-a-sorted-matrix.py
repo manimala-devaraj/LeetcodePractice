@@ -1,8 +1,8 @@
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:
-        cnt=0
+        p=[]
         for i in range(len(grid)):
-            for j in range(len(grid[0])-1,-1,-1):
+            for j in range(len(grid[0])):
                 if grid[i][j]<0:
-                    cnt+=1
-        return cnt
+                    p.append(j)
+        return len(p)
