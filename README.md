@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
+| [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## String
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
