@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
 | [1054-complement-of-base-10-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1054-complement-of-base-10-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
