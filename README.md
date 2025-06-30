@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
