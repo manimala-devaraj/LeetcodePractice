@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
