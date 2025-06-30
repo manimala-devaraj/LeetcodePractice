@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0792-binary-search) |
+| [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
+| [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
+| [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
 ## Simulation
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
