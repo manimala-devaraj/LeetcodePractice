@@ -15,7 +15,4 @@ class Solution:
                 Bob.append(piles[0])
                 piles.remove(piles[0])
 
-        if sum(Alice) > sum(Bob):
-            return True 
-        else:
-            return False
+        return sum(Alice) > sum(Bob)
