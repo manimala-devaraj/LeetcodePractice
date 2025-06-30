@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
