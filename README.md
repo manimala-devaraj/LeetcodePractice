@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
