@@ -5,8 +5,8 @@ class Solution:
             n//=5
             count+=n
         return count
-        #count=0 
-        #mul=1
+        # count=0 
+        # mul=1
         # for i in range(1,n+1):
         #     mul*=i
         #     pass
