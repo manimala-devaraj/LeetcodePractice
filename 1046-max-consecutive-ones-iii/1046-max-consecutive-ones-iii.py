@@ -11,6 +11,5 @@ class Solution:
                 if nums[left] == 0:
                     zcnt-= 1
                 left += 1
-            ma=i-left + 1
-            maxilen = max(maxilen,ma)
+            maxilen = max(maxilen,i-left + 1)
         return maxilen
