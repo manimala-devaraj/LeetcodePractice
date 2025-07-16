@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1833-find-the-highest-altitude) |
 ## Monotonic Stack
 |  |
 | ------- |
