@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
