@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1833-find-the-highest-altitude) |
