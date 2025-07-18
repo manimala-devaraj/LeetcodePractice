@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
