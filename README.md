@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1013-fibonacci-number) |
 ## Sorting
