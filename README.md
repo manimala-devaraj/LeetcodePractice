@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
@@ -294,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
