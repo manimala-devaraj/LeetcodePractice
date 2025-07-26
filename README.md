@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
@@ -246,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1054-complement-of-base-10-integer) |
