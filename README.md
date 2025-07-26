@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
