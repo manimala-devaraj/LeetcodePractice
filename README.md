@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
