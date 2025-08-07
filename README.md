@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1894-merge-strings-alternately) |
+| [3462-vowels-game-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -286,12 +288,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
