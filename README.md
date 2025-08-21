@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0605-can-place-flowers) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0605-can-place-flowers) |
 ## Tree
 |  |
