@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0792-binary-search) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0605-can-place-flowers) |
 ## Tree
 |  |
 | ------- |
