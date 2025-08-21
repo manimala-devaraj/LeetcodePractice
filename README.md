@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1044-find-common-characters](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1044-find-common-characters) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
