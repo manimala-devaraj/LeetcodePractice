@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0096-unique-binary-search-trees) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0344-reverse-string) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0498-diagonal-traverse) |
 ## Linked List
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/manimala-devaraj/LeetcodePractice/tree/master/0090-subsets-ii) |
